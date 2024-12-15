@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Algafur</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working in **AKHTER STUDIO**
+- 🔭 I’m currently working at **KASPI**
 
 - 🌱 I’m currently learning **Next, Vue and advanced TypeScript**
 
